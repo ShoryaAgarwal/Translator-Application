@@ -1,6 +1,6 @@
 <h1 align = "center"> Translator Application </h1>
 <p align = "justify">
-Translator application is a mobile application that helps users translate text or speech from English to Hindi and vice-versa. It provides a user-friendly interface where you can input English text or speak into the application, and it will generate the corresponding Hindi translation and vice-versa. This application offer additional features like offline translation, voice recognition, and the ability to copy translations. They are useful for communication, travel, and learning the Hindi language and vice-versa.
+Translator application is a mobile application that helps users translate text or speech from and to any language(s) and vice-versa. It provides a user-friendly interface where you can input language(s) text or speak into the application, and it will generate the corresponding translation and vice-versa. This application offer additional features like offline translation, voice recognition, and the ability to copy translations. They are useful for communication, travel, and learning the language.
 
 Key Features of the App:
 - Cultural Engagement: Those interested in Hindi culture and media use app to understand books, news articles originally in English.
